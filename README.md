@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prabath Udayanga</h1>
 <h3 align="center">A passionate full stack developer</h3>
-<img align="right" width="400" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif">
+<img align="right" width="400" src="https://miro.medium.com/max/1400/1*lhOax3cZATGZwEhG0uTYRA.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabath1998&label=Profile%20views&color=0e75b6&style=flat" alt="prabath1998" /> </p>
 
 - 🌱 I’m currently learning **Spring Boot,Angular**
