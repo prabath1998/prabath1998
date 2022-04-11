@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prabath Udayanga</h1>
 <h3 align="center">A passionate full stack developer</h3>
-<img align="right" width="400" src="https://miro.medium.com/max/1400/1*8ec0-crehv5zepqkBK1Wdw.gif">
+<img align="right" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabath1998&label=Profile%20views&color=0e75b6&style=flat" alt="prabath1998" /> </p>
 
 - 🌱 I’m currently learning **Spring Boot,Angular**
