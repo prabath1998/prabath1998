@@ -22,4 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabath1998&show_icons=true&locale=en" alt="prabath1998" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabath1998&" alt="prabath1998" /></p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
