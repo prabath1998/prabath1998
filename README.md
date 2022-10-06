@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabath1998&label=Profile%20views&color=0e75b6&style=flat" alt="prabath1998" /> </p>
 
 # 💫 About Me:
- - 🌱 I’m currently learning Microservice Architecture & ASP.NET Core<br><br>- 💬 Ask me about Java<br><br>- 📫 How to reach me prabathoff@gmail.com
+ - 🌱 I’m currently learning Laravel<br><br>- 💬 Ask me about Java<br><br>- 📫 How to reach me prabathoff@gmail.com
 
 
 ## 🌐 Socials:
