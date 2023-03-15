@@ -1,6 +1,7 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning React Native<br>💬 Ask me about Java, Spring Boot<br>✉️  You can contact me at prabathoff@gmail.com
 <img align="right" width="400" src="https://miro.medium.com/max/1400/1*lhOax3cZATGZwEhG0uTYRA.gif">
+<br>🌱 I’m currently learning React Native<br>💬 Ask me about Java, Spring Boot<br>✉️  You can contact me at prabathoff@gmail.com 
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prabath.u_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prabath-udayanga) 
