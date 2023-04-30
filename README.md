@@ -1,6 +1,6 @@
 # 💫 About Me:
 <img align="right" width="400" src="https://miro.medium.com/max/1400/1*lhOax3cZATGZwEhG0uTYRA.gif">
-<br>🌱 I’m currently learning React Native<br>💬 Ask me about Java, Spring Boot<br>✉️  You can contact me at prabathoff@gmail.com 
+<br>🌱 I’m currently learning React Native, NestJS<br>💬 Ask me about Java, Spring Boot<br>✉️  You can contact me at prabathoff@gmail.com 
 
 
 ## 🌐 Socials:
