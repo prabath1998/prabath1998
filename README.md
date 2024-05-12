@@ -2,6 +2,8 @@
 <img align="right" width="400" src="https://miro.medium.com/max/1400/1*lhOax3cZATGZwEhG0uTYRA.gif">
 <br>🌱 I’m currently learning React Native, NestJS<br>💬 Ask me about Java, Spring Boot<br>✉️  You can contact me at prabathoff@gmail.com 
 
+<a href="https://app.daily.dev/prabathud"><img src="https://api.daily.dev/devcards/v2/sX34ZklEe7ppo7eoF4p9H.png?type=default&r=xae" width="356" alt="prabath udayanga's Dev Card"/></a>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prabath.u_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prabath-udayanga) 
